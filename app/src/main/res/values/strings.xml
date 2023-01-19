@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlanetOfBooks</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="my_string_value">Don\'t have an account? Sign up</string>
+    <string name="about_us">It is an electronic library that nourishes minds and expands horizons and contains various categories of books</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/drawable/border.xml" value="0.1195" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/about_us_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/activity_pdf_file.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/activity_sign_in.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/activity_view_book_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/contact_us_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/favorite_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/fragment_novels.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/home_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/list_itemfav.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/novels_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/profile_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/self_development_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/settings_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/technology_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/layout/view_book_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/menu/acitvity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My App/PlanetOfBooks/app/src/main/res/menu/bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/list_itemfav.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/profile_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Desktop/My Application/PlanetOfBooks/app/src/main/res/layout/view_book_fragment.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

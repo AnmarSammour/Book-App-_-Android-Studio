@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Novels_nav"
+        android:title="Novels"
+        />
+    <item
+        android:id="@+id/technology_nav"
+        android:title="Technology"
+        />
+    <item
+        android:id="@+id/Self_development_nav"
+        android:title="Self development"
+        />
+</menu>
