@@ -11,11 +11,11 @@ This is a database-connected application for books.
 # Navigation drawers
 Navigation drawers provide access to destinations in your app.
 
-![8](https://user-images.githubusercontent.com/112755848/213520991-25691af1-b833-4d53-8f6b-3a989e4c6a89.JPG)
+![5](https://user-images.githubusercontent.com/112755848/218584506-45c6159d-233c-42c9-a567-77d39fde279c.JPG)
 
 # Favorite
 
-![9](https://user-images.githubusercontent.com/112755848/213521206-d180d9d7-9c49-49b5-ac28-bb281289f6e9.JPG)
-![0](https://user-images.githubusercontent.com/112755848/213521210-b566504d-db1e-4d5a-bee5-6c7ba07d8d5b.JPG)
+![2](https://user-images.githubusercontent.com/112755848/218584760-3a008f4d-a360-437d-9ddb-ded64c857e68.JPG)
+![4](https://user-images.githubusercontent.com/112755848/218584656-b552ad4b-eb5c-4913-bfd2-80f66d3eeb29.JPG)
 
 
